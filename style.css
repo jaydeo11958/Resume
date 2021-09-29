@@ -1,0 +1,23 @@
+body {
+  background-image: url("Car.jpg");
+}
+
+h1{
+  color:Yellow
+}
+
+h3{
+  color:green
+}
+
+hr{
+  color:white
+}
+
+em{
+  color:orange
+}
+
+b{
+  color:grey
+}
